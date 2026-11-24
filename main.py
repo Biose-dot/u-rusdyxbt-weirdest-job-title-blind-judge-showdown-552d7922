@@ -4,11 +4,11 @@
 Writes the entry text (no trailing newline, nothing else) to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 
-A real-sounding corporate title with one hilariously specific twist: the geese, and the need to apologize to them.
+A real-sounding inflated corporate title with one hilariously specific twist: the geese, and the need to apologize to them.
 """
 import os
 
-ENTRY = 'Chief Apology Officer for Angry Geese'
+ENTRY = 'Senior Vice President of Apologizing to Geese'
 
 
 def main() -> None:
