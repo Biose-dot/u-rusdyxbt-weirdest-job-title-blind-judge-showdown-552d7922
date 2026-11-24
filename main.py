@@ -3,7 +3,7 @@
 import os
 
 
-ENTRY = "Senior Vice President of Apologizing to Printers"
+ENTRY = "Chief Executive Officer of Untangling Christmas Lights"
 
 
 def main():
